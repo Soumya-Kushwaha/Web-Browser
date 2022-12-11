@@ -73,6 +73,6 @@ class MainWindow(QMainWindow):
 
 
 app = QApplication(sys.argv)
-QApplication.setApplicationName('Copy Assignments Browser')
+QApplication.setApplicationName('Personal Web Browser')
 window = MainWindow()
 app.exec_()
